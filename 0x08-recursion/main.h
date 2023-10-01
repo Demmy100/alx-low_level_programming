@@ -15,5 +15,6 @@ int is_prime_recursive(int n, int divisor);
 int is_palindrome(char *s);
 int string_length(char *s);
 int check_palindrome(char *s, int start, int end);
+int wildcmp(char *s1, char *s2);
 
 #endif 
